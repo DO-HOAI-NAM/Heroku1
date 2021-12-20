@@ -1,0 +1,27 @@
+{
+  "name": "asm2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DO-HOAI-NAM/Heroku1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DO-HOAI-NAM/Heroku1.git/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "hbs": "^4.2.0",
+    "mongo": "^0.1.0"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
